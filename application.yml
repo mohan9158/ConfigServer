@@ -1,10 +1,7 @@
 spring:
     application:
         name: USER-SERVICE
-
-server:
-  port: 8085
-
+        
   eureka:
   instance:
     ip-address: true
